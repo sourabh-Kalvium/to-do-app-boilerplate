@@ -65,3 +65,11 @@ img {
   font-size: 16px;
   cursor: pointer;
 }
+.edit{
+  font-weight: bold;
+  color: blue;
+}
+.delete{
+  font-weight: bold;
+  color: red;
+}
